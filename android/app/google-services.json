@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859518664566",
+    "project_id": "chat-box-bb67a",
+    "storage_bucket": "chat-box-bb67a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859518664566:android:4a751ca3a0ac18f7eb4457",
+        "android_client_info": {
+          "package_name": "com.example.chat_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-m7hSymW7Uh018tQWEZgljPN9kFsADv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
